@@ -5,8 +5,8 @@ window.NEWS = [
  id:23, date:"2026-09-01", cat:"conservation",
  title_zh:"马拉自然历史中心在恩戈斯瓦尼正式开馆",
  title_en:"Mara Natural History Center officially opens in Ngoswani, Maasai Mara",
- source:"马拉自然历史中心（官方发布）", url:"",
- summary:"马拉自然历史中心于 2026 年 9 月 1 日在马赛马拉恩戈斯瓦尼（Ngoswani）正式开馆，位于通往塞凯纳尼门（Sekenani Gate）的主路旁，距大门以南约 30 分钟车程。这是大马赛马拉生态系统内首个系统介绍当地自然史、地理、野生动物与栖息地，以及人类起源、远古迁徙路线和马赛文化遗产的专门机构。开馆仪式汇聚了来自国际爱护动物基金会（IFAW）、纳罗克郡政府、马赛马拉国家保护区、当地保护地、社区领袖、教会和小学等机构的 36 位代表。中心由Simba Qiang Zhuo、Xiaoling Cao、Yong Liu 和 Simon Masago 四位联合创始人创办，感谢栖息地守望者基金会（Habitat Watcher Foundation）牵头为建设和展陈筹款，以及 Yin Ye 博士和 Lu Shu 先生的奠基性捐赠。中心欢迎前来马赛马拉游猎的旅客到访。",
+ source:"马拉自然历史中心（官方发布）及星巴开馆讲话", url:"",
+ summary:"马拉自然历史中心于 2026 年 9 月 1 日在马赛马拉恩戈斯瓦尼（Ngoswani）正式开馆，位于通往塞凯纳尼门（Sekenani Gate）的主路旁，距大门以南约 30 分钟车程。这是大马赛马拉生态系统内首个系统介绍当地自然史、地理、野生动物与栖息地，以及人类起源、远古迁徙路线和马赛文化遗产的专门机构。开馆仪式汇聚了来自国际爱护动物基金会（IFAW）、纳罗克郡政府、马赛马拉国家保护区、当地保护地、社区领袖、教会和小学等机构的 36 位代表。中心由星巴（Simba Qiang Zhuo）、曹筱玲（Xiaoling Cao）、刘勇（Yong Liu）和 Simon Masago 四位联合创始人创办，感谢栖息地守望者基金会（Habitat Watcher Foundation）牵头为建设和展陈筹款，以及尹烨（Yin Ye）博士和 Lu Shu 先生的奠基性捐赠。星巴在开馆讲话中回顾，他 2004 年第一次来到马赛马拉，此后长期支持当地保护地和马赛社区；他指出马赛马拉作为世界自然奇观，此前一直缺少一个让游客在游猎前了解当地历史、地理、野生动物和马赛文化的场所，他与 Simon Masago 三年前开始建设这座中心。中心欢迎前来马赛马拉游猎的旅客到访。",
  loc:{lat:-1.75,lng:35.38,name:"恩戈斯瓦尼，塞凯纳尼门以南（近似）"}
 },
 {

@@ -213,7 +213,7 @@ function render(){
   <div class="en">${n.title_en}</div>
   <p>${n.summary}</p>
   ${n.loc?`<div class="loc">📍 ${n.loc.name}</div>`:''}
-  <div class="src">来源：<a href="${n.url}" target="_blank" rel="noopener">${n.source} ↗</a>${(n.also||[]).map(a=>` · <a href="${a.url}" target="_blank" rel="noopener">${a.name} ↗</a>`).join('')}</div>
+  <div class="src">来源：${n.url?`<a href="${n.url}" target="_blank" rel="noopener">${n.source} ↗</a>`:n.source}${(n.also||[]).map(a=>` · <a href="${a.url}" target="_blank" rel="noopener">${a.name} ↗</a>`).join('')}</div>
  </article>`).join(''):'<div class="empty">没有匹配的新闻</div>';
 }
 function jump(id){
